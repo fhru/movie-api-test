@@ -1,2 +1,2 @@
 # movie-api-test
-Test API dari omdbapi.com
+API From omdbapi.com
